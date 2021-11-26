@@ -23,6 +23,8 @@ body{
     width: 100%;
     height: 100%
 }
+
+/* ======================= Section :: contents ==================== */
 .header-container{
   width: 100%;
   height: 600px;
@@ -87,7 +89,7 @@ body{
     height: 400px ;
     background-image: url("data:image/svg+xml,%3Csvg width='1035' height='739' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Crect id='b' width='960' height='600' rx='20'/%3E%3Cfilter x='-1.6%25' y='-2.5%25' width='103.1%25' height='105%25' filterUnits='objectBoundingBox' id='a'%3E%3CfeOffset in='SourceAlpha' result='shadowOffsetOuter1'/%3E%3CfeGaussianBlur stdDeviation='5' in='shadowOffsetOuter1' result='shadowBlurOuter1'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0.145098039 0 0 0 0 0.180392157 0 0 0 0.181838768 0' in='shadowBlurOuter1'/%3E%3C/filter%3E%3Cpath d='M20 0h920c11.046 0 20 8.954 20 20v44H0V20C0 8.954 8.954 0 20 0z' id='d'/%3E%3Cfilter x='-1.6%25' y='-23.4%25' width='103.1%25' height='146.9%25' filterUnits='objectBoundingBox' id='c'%3E%3CfeOffset in='SourceAlpha' result='shadowOffsetOuter1'/%3E%3CfeGaussianBlur stdDeviation='5' in='shadowOffsetOuter1' result='shadowBlurOuter1'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0.145098039 0 0 0 0 0.180392157 0 0 0 0.181838768 0' in='shadowBlurOuter1'/%3E%3C/filter%3E%3ClinearGradient x1='14.811%25' y1='-22.362%25' x2='75.996%25' y2='119.406%25' id='e'%3E%3Cstop stop-color='%23FAD961' offset='0%25'/%3E%3Cstop stop-color='%23FF52C1' offset='100%25'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%25' y1='0%25' x2='50%25' y2='100%25' id='f'%3E%3Cstop stop-color='%2300C7FA' offset='0%25'/%3E%3Cstop stop-color='%23007DFA' offset='100%25'/%3E%3C/linearGradient%3E%3ClinearGradient x1='28.973%25' y1='0%25' x2='90.2%25' y2='111.244%25' id='g'%3E%3Cstop stop-color='%23FF52C1' offset='0%25'/%3E%3Cstop stop-color='%239952FF' offset='100%25'/%3E%3C/linearGradient%3E%3Crect id='i' width='320' height='512' rx='17.067'/%3E%3Cfilter x='-4.2%25' y='-2.6%25' width='108.4%25' height='105.3%25' filterUnits='objectBoundingBox' id='h'%3E%3CfeOffset in='SourceAlpha' result='shadowOffsetOuter1'/%3E%3CfeGaussianBlur stdDeviation='4.5' in='shadowOffsetOuter1' result='shadowBlurOuter1'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0.145098039 0 0 0 0 0.180392157 0 0 0 0.181838768 0' in='shadowBlurOuter1'/%3E%3C/filter%3E%3Cpath d='M17.067 0h285.866C312.36 0 320 7.641 320 17.067v37.546H0V17.067C0 7.64 7.641 0 17.067 0z' id='k'/%3E%3Cfilter x='-4.2%25' y='-24.7%25' width='108.4%25' height='149.4%25' filterUnits='objectBoundingBox' id='j'%3E%3CfeOffset in='SourceAlpha' result='shadowOffsetOuter1'/%3E%3CfeGaussianBlur stdDeviation='4.5' in='shadowOffsetOuter1' result='shadowBlurOuter1'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0.145098039 0 0 0 0 0.180392157 0 0 0 0.181838768 0' in='shadowBlurOuter1'/%3E%3C/filter%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(10 10)'%3E%3Cuse fill='%23000' filter='url(%23a)' xlink:href='%23b'/%3E%3Cuse fill='%23FFF' xlink:href='%23b'/%3E%3Cuse fill='%23000' filter='url(%23c)' xlink:href='%23d'/%3E%3Cuse fill='%2300252E' xlink:href='%23d'/%3E%3Crect fill='%23E1E8EE' x='72' y='20' width='200' height='24' rx='5'/%3E%3Cg transform='translate(864 22)' fill='%23D8D8D8'%3E%3Crect width='32' height='4' rx='2'/%3E%3Crect y='8' width='32' height='4' rx='2'/%3E%3Crect y='16' width='32' height='4' rx='2'/%3E%3C/g%3E%3Cg transform='translate(72 138)'%3E%3Ccircle fill='url(%23e)' cx='48' cy='48' r='48'/%3E%3Cg transform='translate(152 12)' fill='%23E1E8EE'%3E%3Crect width='115' height='16' rx='3'/%3E%3Crect y='32' width='400' height='8' rx='3'/%3E%3Crect y='48' width='366.667' height='8' rx='3'/%3E%3Crect y='64' width='333.333' height='8' rx='3'/%3E%3C/g%3E%3Cg transform='translate(600 36)' fill='%23A7B9C8'%3E%3Ccircle cx='12' cy='12' r='12'/%3E%3Ccircle cx='76' cy='12' r='12'/%3E%3Ccircle cx='44' cy='12' r='12'/%3E%3Ccircle cx='108' cy='12' r='12'/%3E%3Ccircle cx='140' cy='12' r='12'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(72 274)'%3E%3Ccircle fill='url(%23f)' cx='45' cy='45' r='45'/%3E%3Cg transform='translate(149 9)' fill='%23E1E8EE'%3E%3Crect width='115' height='16' rx='3'/%3E%3Crect y='32' width='400' height='8' rx='3'/%3E%3Crect y='48' width='366.667' height='8' rx='3'/%3E%3Crect y='64' width='333.333' height='8' rx='3'/%3E%3C/g%3E%3Cg transform='translate(597 33)' fill='%23A7B9C8'%3E%3Ccircle cx='12' cy='12' r='12'/%3E%3Ccircle cx='76' cy='12' r='12'/%3E%3Ccircle cx='44' cy='12' r='12'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(72 417)'%3E%3Ccircle fill='url(%23g)' cx='45' cy='45' r='45'/%3E%3Cg transform='translate(149 9)' fill='%23E1E8EE'%3E%3Crect width='115' height='16' rx='3'/%3E%3Crect y='32' width='400' height='8' rx='3'/%3E%3Crect y='48' width='366.667' height='8' rx='3'/%3E%3Crect y='64' width='333.333' height='8' rx='3'/%3E%3C/g%3E%3Cg transform='translate(597 33)' fill='%23A7B9C8'%3E%3Ccircle cx='12' cy='12' r='12'/%3E%3Ccircle cx='76' cy='12' r='12'/%3E%3Ccircle cx='44' cy='12' r='12'/%3E%3Ccircle cx='108' cy='12' r='12'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(706 218)'%3E%3Cuse fill='%23000' filter='url(%23h)' xlink:href='%23i'/%3E%3Cuse fill='%23FFF' xlink:href='%23i'/%3E%3C/g%3E%3Cg transform='translate(706 218)'%3E%3Cuse fill='%23000' filter='url(%23j)' xlink:href='%23k'/%3E%3Cuse fill='%2300252E' xlink:href='%23k'/%3E%3C/g%3E%3Cg transform='translate(738.133 236.773)'%3E%3Crect fill='%23E1E8EE' width='104' height='20.48' rx='4.267'/%3E%3Cg transform='translate(226.427 1.707)' fill='%23D8D8D8'%3E%3Crect width='27.307' height='3.413' rx='1.707'/%3E%3Crect y='6.827' width='27.307' height='3.413' rx='1.707'/%3E%3Crect y='13.653' width='27.307' height='3.413' rx='1.707'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(738 326)'%3E%3Ccircle fill='url(%23e)' cx='15' cy='15' r='15'/%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(738 464)'%3E%3Ccircle fill='url(%23e)' cx='15' cy='15' r='15'/%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(738 372)'%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3Ccircle fill='url(%23f)' cx='15' cy='15' r='15'/%3E%3C/g%3E%3Cg transform='translate(738 510)'%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3Ccircle fill='url(%23f)' cx='15' cy='15' r='15'/%3E%3C/g%3E%3Cg transform='translate(738 418)'%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3Ccircle fill='url(%23g)' cx='15' cy='15' r='15'/%3E%3C/g%3E%3Cg transform='translate(738 556)'%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3Ccircle fill='url(%23g)' cx='15' cy='15' r='15'/%3E%3C/g%3E%3Cg transform='translate(738 602)'%3E%3Ccircle fill='url(%23e)' cx='15' cy='15' r='15'/%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3C/g%3E%3Cg transform='translate(738 648)'%3E%3Cg transform='translate(46 3)' fill='%23E1E8EE'%3E%3Crect width='57.5' height='5.333' rx='.92'/%3E%3Crect y='10.667' width='200' height='2.667' rx='.92'/%3E%3Crect y='16' width='183.333' height='2.667' rx='.92'/%3E%3Crect y='21.333' width='166.667' height='2.667' rx='.92'/%3E%3C/g%3E%3Ccircle fill='url(%23f)' cx='15' cy='15' r='15'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
     background-repeat: no-repeat; 
-    background-size: 100% 100%;
+    background-size: 100% 100% ;
 }
 /*  end fo first image */
 
@@ -214,7 +216,10 @@ body{
 }
 /* end Card graphics */
 /* end of card style */
+/* ======================= End of Section :: contents ==================== */
 
+
+/* =======================  Section :: Footer ==================== */
 /* Footer */
 .ready-to-build-card{
     width: 600px ;
@@ -248,8 +253,7 @@ body{
     position: relative;
     background-color: hsl(192, 100%, 9%);
     margin-top: 15rem;
-   
-       
+    padding-bottom: 95px;
 }
 .footer-contents-wrapper{
     padding-top:10rem;
@@ -273,7 +277,7 @@ body{
     text-underline-position: under;
     text-decoration: underline;
 }
-a { 
+a{ 
     color: inherit;
  } 
 .footer-contents{
@@ -301,5 +305,14 @@ a {
     margin-left: 9px;
     width: 300px;
 }
-
+.footer-contents-wrapper .logo{
+    padding-bottom: 25px;
+}
+.footer-contents div{
+    padding-bottom: 8px;
+}
 /* End of footer */
+/* ======================= End of Section :: Footers ==================== */
+
+/* ========== Start: responsitivity content ============== */
+/* ========== End:: responsitivity content =============== */
