@@ -1,0 +1,57 @@
+/* Mobile version */
+.header .logo img{
+    width: 130px;
+    height: 30px;   
+}
+
+.head-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head-image img{
+    width:290px;
+}
+
+
+/* Tablet version */
+@media screen and (min-width: 500px) { 
+    .head-image img{
+        width:400px;
+    }   
+}
+
+/* Tablet version */
+@media screen and (min-width: 767px) { 
+    .head-image img{
+        width:600px;
+    }   
+    .sub-title{
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 30px;
+    } 
+    .pink-bg{
+        font-size: 19px;
+    }
+}
+
+/* Laptop version */
+@media screen and (min-width: 1024px) {
+    .head-image img{
+        width:500px;
+    }   
+    .header-container{
+        width: 100%;
+        height: 75vh;
+    }
+    .1416
+}
+@media screen and (min-width: 1200px){
+    .header-container{
+        width: 100%;
+        height: 65vh;
+    }
+}
+/* Desktop version */
