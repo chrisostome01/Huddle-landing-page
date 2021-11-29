@@ -207,14 +207,17 @@ body{
 
 /* =======================  Section :: Footer ==================== */
 /* Footer */
+footer{
+    width: 100%;
+}
 .ready-to-build-card{
-    width: 600px ;
+    width: 259px ;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: -10%;
+    top: -2%;
     right: 50%;
     transform: translate(50%,-50%);
    
@@ -222,11 +225,10 @@ body{
 /* Footer */
 .ready-to-build-card .get-started-btn-holder {
   display: flex;
-  justify-content: center;
-  
+  justify-content: center;  
 }
 .ready-to-build-card .topic{
-    font-size: 19px;
+    font-size: 10px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold ;
 }
@@ -237,8 +239,8 @@ body{
 .footer{
     width: 100%;
     position: relative;
-    background-color: hsl(192, 100%, 9%);
-    margin-top: 15rem;
+    background-color: #477B8B;
+    margin-top: 10rem;
     padding-bottom: 95px;
 }
 .footer-contents-wrapper{
@@ -268,15 +270,44 @@ a{
  } 
 .footer-contents{
     display: flex;
+    flex-direction:column;
     justify-content: space-between;
+    padding:12px;
 }
 .copyright{
     color: rgb(228, 228, 228);
     font-size:14px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-    text-align: right;
+    text-align: center;
     padding-right:3rem;
+}
+.social-links{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 0px;
+}
+.social-links div{
+    padding-bottom: 0px;
+    border: 1px solid white;
+    margin: 30px;
+    width: 39px;
+    height: 39px;
+    border-radius:50% ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;   
+    transition: 0.1s ease-in;
+}
+
+.social-links div:hover{    
+    border: 1px solid var(--pink); 
+    color: var(--pink) ;
+}
+.social-links div:hover i {    
+    color: var(--pick) ;
 }
 
 .flex-it{
@@ -295,7 +326,7 @@ a{
     padding-bottom: 25px;
 }
 .footer-contents div{
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 /* End of footer */
 /* ======================= End of Section :: Footers ==================== */

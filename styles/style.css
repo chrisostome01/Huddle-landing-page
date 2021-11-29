@@ -33,10 +33,10 @@
     width: 250px;
     height: 290px;
 }
-
 .tablet{
     display: none;
 }
+
 /* Tablet version */
 @media screen and (min-width: 500px) { 
     .head-image img{
@@ -46,6 +46,17 @@
         float: left;
         height: 300px;
         width: 250px; 
+    }
+    .ready-to-build-card .topic{
+        font-size: 10px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold ;
+    }
+    .ready-to-build-card .get-started-btn-holder button {   
+        width: 300px;
+    }    
+    .ready-to-build-card{
+        width: 431px ;
     }
 }
 
@@ -68,28 +79,87 @@
         height: 300px;
         width: 400px; 
     }
+   
+    .footer{
+        margin-top: 15rem;
+    }
+    .ready-to-build-card .topic{
+        font-size: 12px;
+    }
+    .ready-to-build-card{
+        width: 431px ;
+    }
+    .heading-discription p{
+        font-size:16px;
+    }
+}
+
+/* Laptop version */
+@media screen and (min-width: 1024px) {
     .tablet{
         display: block;
     }
     .mob{
         display: none;
     }
-}
-
-/* Laptop version */
-@media screen and (min-width: 1024px) {
     .head-image img{
         width:500px;
     }   
     .header-container{
         width: 100%;
+        height: 100vh;
+    }
+    .ready-to-build-card .topic{
+        font-size: 19px;     
+    }
+    .ready-to-build-card{
+        width: 788px;
+    }
+    .footer-contents{
+        display: flex;
+        flex-direction:row;
+        justify-content: space-between;
+        padding:0px;
+    }
+    .copyright{
+        text-align: right;
+    }
+   
+    .social-links{
+        display: flex;
+        justify-content: right;
+        color: white;
+        padding: 0px;
+    }
+}
+@media screen and (min-width: 1020px){
+    .header-container{
+        width: 100%;
+        height: 100vh;
+    }
+}
+@media screen and (min-width: 1100px){
+    .header-container{
+        width: 100%;
+        height: 90vh;
+    }
+}
+@media screen and (min-width: 1400px){
+    .header-container{
+        width: 100%;
         height: 75vh;
     }
 }
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1800px){
     .header-container{
         width: 100%;
         height: 65vh;
+    }
+    .card .card-info .topic{
+        font-size: 35px;
+    }
+    .card .card-info .card-details{
+        font-size:19px;
     }
 }
 /* Desktop version */
